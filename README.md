@@ -4,7 +4,7 @@
 
 > This is our first project for Microverse
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
 A simple Hello world page.
 
@@ -21,33 +21,34 @@ A simple Hello world page.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Have git correctly installed.
+
 ### Setup
+
+- Open a terminal window where you want to have installed a copy of the repository.
 
 ### Install
 
+- Use this command to get a copy:
+```
+git clone git@github.com:helio3197/hello-microverse.git
+```
 ### Usage
 
-### Run tests
-
-### Deployment
-
+- Edit the content as you like.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Kenny Salazar**
 
-- GitHub: [@githubhandle](https://github.com/helio3197)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@helio3197](https://github.com/helio3197)
+- Twitter: [@kennysalazar31](https://twitter.com/kennysalazar31)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/kenny-salazar-1a1687110)
 
 
 ## 🤝 Contributing
@@ -62,9 +63,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to Microverse for the guidelines.
+
 
 ## 📝 License
 
