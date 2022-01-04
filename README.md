@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Use this command to get a copy:
 ```
-git@github.com:helio3197/hello-microverse.git
+git clone git@github.com:helio3197/hello-microverse.git
 ```
 ### Usage
 
